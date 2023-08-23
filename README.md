@@ -2,7 +2,7 @@
 
 Submitted by: **Ryan Tran**
 
-**Name of your app** is an app that... [TODO] 
+**IOS101-Prework** is an app that... [changed the color of the app background when the user interacts with the "explore" button] 
 
 Time spent: **1** hours spent in total
 
@@ -28,10 +28,26 @@ GIF created with [Kap]
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
+1. Evernote
+Cross-Platform Synchronization: The ability to seamlessly sync notes, to-do lists, and ideas across devices, ensuring access from anywhere.
+Versatile Note Formatting: Providing a wide range of formatting options like text styles, bullet points, checkboxes, and attachments for creating organized and detailed notes.
+
+3. Google Maps
+Real-Time Navigation: Offering accurate and real-time navigation to help users find the fastest routes and avoid traffic congestion.
+Local Business Information: Providing detailed information about local businesses, including reviews, photos, and operating hours, to aid in decision-making.
+
+5. Spotify
+Personalized Playlists: Curating playlists based on user preferences and listening history, introducing users to new music while catering to their tastes.
+Offline Listening: Allowing users to download music for offline listening, ideal for situations without a stable internet connection.
+
+App Idea: Travel Buddy
+Travel Buddy is a mobile app designed to enhance the travel experience by providing a comprehensive platform for travelers to plan, organize, and document their trips. The app integrates features from various travel-related apps, simplifying the travel process. Users can input their destination and receive detailed information about local attractions, restaurants, and events. The app also assists in itinerary creation, suggesting optimized routes and activities based on user preferences. One unique feature is the ability to create a digital travel journal, allowing users to write about their experiences, attach photos, and geotag entries. This journal can be shared with friends and family, creating a lasting memory of the trip. Additionally, Travel Buddy offers offline access to saved information, ensuring users have access to vital travel details even without an internet connection. Overall, Travel Buddy aims to be an all-in-one travel companion that combines planning, navigation, and memory keeping in a single, user-friendly interface.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+- Improve the UI by using different fonts/colors/background
+- Feel free to play around with other elements, such as image views, textfields, etc.
+- Iplement a way to change the color of the text as well
 
 ## License
 
