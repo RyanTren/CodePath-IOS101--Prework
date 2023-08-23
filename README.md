@@ -51,7 +51,7 @@ Travel Buddy is a mobile app designed to enhance the travel experience by provid
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2023 Ryan Tran
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
